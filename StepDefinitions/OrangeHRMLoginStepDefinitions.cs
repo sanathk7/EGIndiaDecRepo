@@ -52,7 +52,7 @@ namespace SpecFlowProject1.StepDefinitions
         [Then(@"User is navigated to homepage")]
         public void ThenUserIsNavigatedToHomepage()
         {
-            Console.WriteLine("Entered to home page");
+            Console.WriteLine("Entered to home pagekk");
         }
     }
 }
